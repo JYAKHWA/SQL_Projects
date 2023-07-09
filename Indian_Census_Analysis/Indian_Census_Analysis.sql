@@ -1,4 +1,10 @@
 
+/* This Project uses Data Analysis case for Indian Population.
+	-Mainly Mathematical calculations are used which then are applied for Analysis in SQL such as Isentify Literacy by State, Show Population Growth using the 
+	columns (Current_ Population) and Growth, Males and Females from sex-ration and population, etc.
+	- Aggregate Functions, Complex Subqueries, GroupBy/OrderBy, Having, Temp_Tables, Joins, Union, etc. are main focuses on this project.
+*/
+
 USE Indian_Census_Analysis;
 
 SELECT * FROM Indian_Census_Analysis.dbo.Data1;
