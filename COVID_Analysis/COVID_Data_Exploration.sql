@@ -1,5 +1,11 @@
 -- COVID DATA EXPLORATION --
 
+/* This project explores the COVID Data in the world, in terms of number of cases, vaccinations, population, location, continent, deaths, etc.
+	It has also a basic comparison of total cases, deaths, death and case percent comparison between Nepal and the United States.
+	The project focuses on applying Aggregate Functions,  Group By, Order By, Having, Partition By, Temp_Tables, CTE, VIEW, JOINS, etc.
+	*/
+
+
 USE COVID_Analysis;
 
 SELECT * FROM CovidDeaths
